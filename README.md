@@ -12,8 +12,6 @@ Control de Versiones y Herramientas: Git, GitHub, VS Code, Postman, Vercel
 
 📊 **GitHub Stats**
 
-Próximamente podrás ver aquí un resumen de mi actividad y estadísticas en la plataforma a medida que vaya completando proyectos del bootcamp.
-
 <p align="center">
   <img src="https://github-profile-sumary-cards.vercel.app/api/cards/stats?username=mjrr39sevilla&show_icons=true&theme=vision-friendly-darkradical" alt="Stats" />
 </p>
