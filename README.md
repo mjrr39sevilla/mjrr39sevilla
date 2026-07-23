@@ -32,9 +32,7 @@ Aquí puedes ver un resumen de mi actividad en la plataforma:
 * **Email:** [mjrr39sevilla@gmail.com](mailto:mjrr39sevilla@gmail.com)
 * **Email:** [mjrr39@hotmail.com](mailto:mjrr39@hotmail.com)
 
-**My portfolio**
-
-<h2>See my portfolio <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/></h2>
+<h2>See my portfolio<img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/> </h2>
 [https://mjrr39sevilla.github.io/Portfolio](https://mjrr39sevilla.github.io)
 
 <div align="left">
