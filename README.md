@@ -23,5 +23,5 @@ Próximamente podrás ver aquí un resumen de mi actividad y estadísticas en la
 * **Email:** [mjrr39sevilla@gmail.com](mailto:mjrr39sevilla@gmail.com)
 * **Email:** [mjrr39@hotmail.com](mailto:mjrr39@hotmail.com)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mjrr39sevilla¬theme=holi)](https://github.com/mjrr39sevilla/github-profile-sumary-cards)
+[!](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mjrr39sevilla¬theme=holi)](https://github.com/mjrr39sevilla/github-profile-sumary-cards)
 
