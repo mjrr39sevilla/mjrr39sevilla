@@ -1,7 +1,9 @@
 ¡Hola, bienvenid@ a mi perfil! 👋
+
 Soy una desarrolladora en pleno proceso de formación intensiva, apasionada por la tecnología, la resolución de problemas y la creación de soluciones digitales eficientes. Este espacio está en constante evolución a medida que avanzo en mi bootcamp, sumando nuevas herramientas, proyectos y aprendizajes cada semana.
 
 🛠️ Current Stack
+
 Actualmente estoy enfocando mi aprendizaje en las siguientes tecnologías:
 
 Frontend: HTML5, CSS3, JavaScript 
