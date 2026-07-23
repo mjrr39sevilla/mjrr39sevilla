@@ -24,6 +24,14 @@ Aquí puedes ver un resumen de mi actividad en la plataforma:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mjrr39sevilla&theme=holi)
 
+📫 **Contacto**
+¡Me encantaría conectar contigo o hablar sobre oportunidades de colaboración!
+
+* **LinkedIn:** [https://www.linkedin.com/in/maria-jose-rodriguez-ramos]
+
+* **Email:** [mjrr39sevilla@gmail.com](mailto:mjrr39sevilla@gmail.com)
+* **Email:** [mjrr39@hotmail.com](mailto:mjrr39@hotmail.com)
+
 **My portfolio**
 
 <h2>See my portfolio <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/></h2>
@@ -31,13 +39,9 @@ Aquí puedes ver un resumen de mi actividad en la plataforma:
 
 <div align="left">
 <p><strong>Or you can scan this QR Code 👇🏻</strong></p>
-<img src="https://api.qrserver.com/v1/create-qr-code/?size=160X160&data=https://github.com/mjrr39sevilla&logo=https://raw.githubusercontent.com/8lKj3r6.png" width="160" alt="QR Code width Dino" />
+<img align="left" src="https://github.com/muskanrani/muskanrani/blob/master/qrcode_muskanrani.github.io.png?raw=true" alt="QR Code de mi Portfolio" height="150" />
+<img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" height="150" />
 </div>
-
-
-
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-<!-- <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'> -->
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <p align="center">
@@ -46,11 +50,4 @@ Aquí puedes ver un resumen de mi actividad en la plataforma:
 
 
 
-📫 **Contacto**
-¡Me encantaría conectar contigo o hablar sobre oportunidades de colaboración!
-
-* **LinkedIn:** [https://www.linkedin.com/in/maria-jose-rodriguez-ramos]
-
-* **Email:** [mjrr39sevilla@gmail.com](mailto:mjrr39sevilla@gmail.com)
-* **Email:** [mjrr39@hotmail.com](mailto:mjrr39@hotmail.com)
 
