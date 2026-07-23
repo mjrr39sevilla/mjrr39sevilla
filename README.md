@@ -31,7 +31,7 @@ Aquí puedes ver un resumen de mi actividad en la plataforma:
 
 <div align="left">
 <p><strong>Or you can scan this QR Code 👇🏻</strong></p>
-<img src="https://api.qrserver.com/v1/create-qr-code/?size=150X150&data=https://github.com/mjrr39sevilla&logo=https://i.imgur.com/8lKj3r6.png" width="150" alt="QR Code width Dino" />
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=160X160&data=https://github.com/mjrr39sevilla&logo=https://raw.githubusercontent.com/8lKj3r6.png" width="160" alt="QR Code width Dino" />
 </div>
 
 
