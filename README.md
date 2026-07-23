@@ -28,10 +28,17 @@ Aquí puedes ver un resumen de mi actividad en la plataforma:
 
 <h2>See my portfolio <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/></h2>
 [https://mjrr39sevilla.github.io/Portfolio](https://mjrr39sevilla.github.io)
+
+<div align="left">
+<p><strong>Or you can scan this QR Code 👇🏻</strong></p>
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=150X150&data=https://github.com/mjrr39sevilla&logo=https://i.imgur.com/8lKj3r6.png" width="150" alt="QR Code width Dino" />
+</div>
+
+
+
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 <!-- <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'> -->
-<h3>Or you can scan this QR Code 👇🏻</h3>
-<img src="https://github.com/mjrr39sevilla/mjrr39sevilla/blob/master/qrcode_mjrr39sevilla.github.io.png"  style="width: 20%" />
+
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
