@@ -23,9 +23,5 @@ LinkedIn: [https://www.linkedin.com/in/maria-jose-rodriguez-ramos]
 Email: [mjrr39sevilla@gmail.com]
 Email: [mjrr39@hotmail.com]
 
-[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mjrr39sevilla&theme=holi)](github.com/mjrr39sevilla/github-profile-sumary-cards)
-
-[![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mjrr39sevilla&theme=holi)](https://github.com/mjrr39sevilla/github-profile-sumary-cards)
-
-[![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mjrr39sevilla&theme=holi)](https://github.com/mjrr39sevilla/github-profile-sumary-cards)
+[!](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mjrr39sevilla¬theme=holi)](https://github.com/mjrr39sevilla/github-profile-sumary-cards)
 
