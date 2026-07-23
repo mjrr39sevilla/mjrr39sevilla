@@ -1,3 +1,5 @@
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mjrr39sevilla&theme=holi)
+
 *¡Hola, bienvenid@ a mi perfil!* 👋
 
 Soy una desarrolladora en pleno proceso de formación intensiva, apasionada por la tecnología, la resolución de problemas y la creación de soluciones digitales eficientes. Este espacio está en constante evolución a medida que avanzo en mi bootcamp, sumando nuevas herramientas, proyectos y aprendizajes cada semana.
@@ -10,12 +12,17 @@ Frontend: HTML5, CSS3, JavaScript
 
 Control de Versiones y Herramientas: Git, GitHub, VS Code, Postman, Vercel
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mjrr39sevilla&theme=holi)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mjrr39sevilla&theme=holi)
+
+
 📊 **GitHub Stats**
 
-<p align="center">
-  <img src="https://github-profile-sumary-cards.vercel.app/api/cards/stats?username=mjrr39sevilla&show_icons=true&theme=vision-friendly-darkradical" alt="Stats" />
-</p>
-  
+Aquí puedes ver un resumen de mi actividad en la plataforma:
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mjrr39sevilla&theme=holi)
+
+
 
 📫 **Contacto**
 ¡Me encantaría conectar contigo o hablar sobre oportunidades de colaboración!
@@ -25,7 +32,3 @@ Control de Versiones y Herramientas: Git, GitHub, VS Code, Postman, Vercel
 * **Email:** [mjrr39sevilla@gmail.com](mailto:mjrr39sevilla@gmail.com)
 * **Email:** [mjrr39@hotmail.com](mailto:mjrr39@hotmail.com)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mjrr39sevilla&theme=holi)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mjrr39sevilla&theme=holi)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mjrr39sevilla&theme=holi)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mjrr39sevilla&theme=holi)
