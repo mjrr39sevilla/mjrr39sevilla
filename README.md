@@ -18,7 +18,7 @@ Próximamente podrás ver aquí un resumen de mi actividad y estadísticas en la
 
 ¡Me encantaría conectar contigo o hablar sobre oportunidades de colaboración!
 
-* **LinkedIn:** [María José Rodríguez Ramos](https://www.linkedin.com/in/maria-jose-rodriguez-ramos)
+* **LinkedIn:** [https://www.linkedin.com/in/maria-jose-rodriguez-ramos]
 
 * **Email:** [mjrr39sevilla@gmail.com](mailto:mjrr39sevilla@gmail.com)
 * **Email:** [mjrr39@hotmail.com](mailto:mjrr39@hotmail.com)
